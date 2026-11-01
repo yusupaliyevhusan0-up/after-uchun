@@ -16,6 +16,9 @@ Bu loyiha video montaj, motion dizayn va marketing ishlari uchun. Kod emas, vide
 - Kabel do'koni: arzon narx, cheklanmagan miqdor, O'zbekiston bo'ylab yetkazib berish.
 - Har bir video oxiridagi shior: **"Kabel X — sifat qimmat bo'lishi shart emas."**
 - Reklama oxirida: izohga kabel nomini yozing, o'zimiz aloqaga chiqamiz.
+- Telefon raqamlari: +998 93 064 77 77, +998 91 913 83 73.
+- Logotip: `assets/kabelx_logo.png` (shaffof fonli). Video oxirida logo va raqamlar animatsiya bilan chiqadi.
+- Video uslubi: Montserrat shrift, oq + oltin (#e6c27a) matn, so'zlar pastdan xiralikdan chiqadi, qorong'i shisha kartalar, minimalistik SFX (ovozdan past).
 - Ssenariylarda faqat o'qiladigan matn kerak (kadr, ракурс kerak emas). Har bir ssenariy boshqalariga o'xshamasin.
 
 Ssenariy va reklama matnlarini o'zbek tilida yoz. Raqam, natija yoki mijoz fikrini o'ylab topma.
